@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/MLFlow/mlruns/519041328492156971/f886bf6ffc3e4c0d83d9fb28cbf20ef0/artifacts
+end_time: 1767075004083
+entry_point_name: ''
+experiment_id: '519041328492156971'
+lifecycle_stage: active
+run_id: f886bf6ffc3e4c0d83d9fb28cbf20ef0
+run_name: logistic_regression_v2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767074978536
+status: 3
+tags: []
+user_id: hp

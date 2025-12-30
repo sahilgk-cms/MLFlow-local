@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/hp/MLFlow/mlruns/0/models/m-bd51e08cf3d74bd18d609a50ea77b30e/artifacts
+creation_timestamp: 1764051438668
+experiment_id: '0'
+last_updated_timestamp: 1764051461516
+model_id: m-bd51e08cf3d74bd18d609a50ea77b30e
+model_type: null
+name: Logistic Regression v1
+source_run_id: 512a31ed627a4f1c867fd9e800058983
+status: 2
+status_message: null

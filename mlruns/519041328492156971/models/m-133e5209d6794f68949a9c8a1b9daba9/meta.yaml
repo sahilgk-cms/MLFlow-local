@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/hp/MLFlow/mlruns/519041328492156971/models/m-133e5209d6794f68949a9c8a1b9daba9/artifacts
+creation_timestamp: 1766738620198
+experiment_id: '519041328492156971'
+last_updated_timestamp: 1766738631573
+lifecycle_stage: deleted
+model_id: m-133e5209d6794f68949a9c8a1b9daba9
+model_type: ''
+name: Random Forest
+source_run_id: bd271d0c953b46a6bfc4d82d823c0364
+status: 2
+status_message: null

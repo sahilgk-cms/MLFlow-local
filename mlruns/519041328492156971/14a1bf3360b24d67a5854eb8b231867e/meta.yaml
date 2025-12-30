@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/MLFlow/mlruns/519041328492156971/14a1bf3360b24d67a5854eb8b231867e/artifacts
+end_time: 1766740076186
+entry_point_name: ''
+experiment_id: '519041328492156971'
+lifecycle_stage: active
+run_id: 14a1bf3360b24d67a5854eb8b231867e
+run_name: random_forest_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766740061152
+status: 3
+tags: []
+user_id: hp

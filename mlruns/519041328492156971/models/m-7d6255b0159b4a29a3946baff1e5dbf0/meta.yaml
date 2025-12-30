@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/hp/MLFlow/mlruns/519041328492156971/models/m-7d6255b0159b4a29a3946baff1e5dbf0/artifacts
+creation_timestamp: 1766739909801
+experiment_id: '519041328492156971'
+last_updated_timestamp: 1766739921103
+model_id: m-7d6255b0159b4a29a3946baff1e5dbf0
+model_type: ''
+name: model
+source_run_id: 8738777550414eba9932cb06dcee2604
+status: 2
+status_message: null

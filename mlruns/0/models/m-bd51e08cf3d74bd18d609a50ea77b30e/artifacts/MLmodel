@@ -1,0 +1,31 @@
+artifact_path: file:///C:/Users/hp/MLFlow/mlruns/0/models/m-bd51e08cf3d74bd18d609a50ea77b30e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-bd51e08cf3d74bd18d609a50ea77b30e
+model_size_bytes: 949
+model_uuid: m-bd51e08cf3d74bd18d609a50ea77b30e
+prompts: null
+run_id: 512a31ed627a4f1c867fd9e800058983
+signature:
+  inputs: '[{"type": "double", "name": "sepal length (cm)", "required": true}, {"type":
+    "double", "name": "sepal width (cm)", "required": true}, {"type": "double", "name":
+    "petal length (cm)", "required": true}, {"type": "double", "name": "petal width
+    (cm)", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-25 06:17:18.815961'
