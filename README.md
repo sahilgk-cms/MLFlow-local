@@ -21,5 +21,6 @@ Each run overview has info about the metics, paramters, data hash, logged model.
 <img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/875db4a3-6f0a-42e3-9bc6-c7f29e9a92f9" />
 
 
-In the artifacts section, we can see where our pickle file is saved
-<img width="1496" height="442" alt="image" src="https://github.com/user-attachments/assets/36194e99-e503-4318-b45e-d0cbd7a4a63a" />
+In the artifacts section, we can see where our dataset is saved
+<img width="1878" height="875" alt="image" src="https://github.com/user-attachments/assets/cf563789-0ac6-4217-9f6c-a5261f761e59" />
+
