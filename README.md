@@ -30,3 +30,10 @@ The model info can be viewed at http://127.0.0.1:5000/#/experiments/{experiment_
 The pickle file for the model can be viewed at http://127.0.0.1:5000/#/experiments/{experiment_id}/models/{model_id}/artifacts
 <img width="1531" height="434" alt="image" src="https://github.com/user-attachments/assets/c3043848-5243-476e-8265-d5238e72e329" />
 
+The registered models can be viewed at http://127.0.0.1:5000/#/models
+<img width="1910" height="397" alt="image" src="https://github.com/user-attachments/assets/483fd3e1-7afc-43b3-b884-49902ca75302" />
+
+Inside the model, we can see the model versions, tags and aliases if pushed to production: http://127.0.0.1:5000/#/models/{model_name}
+<img width="1899" height="683" alt="image" src="https://github.com/user-attachments/assets/4df3b268-1f1f-4335-9d6c-e896acfc4f3a" />
+
+
