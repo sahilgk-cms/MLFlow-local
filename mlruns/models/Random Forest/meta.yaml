@@ -1,7 +1,8 @@
-aliases: {}
-creation_timestamp: 1766740075907
+aliases:
+  prod: '1'
+creation_timestamp: 1767183677094
 deployment_job_id: null
 deployment_job_state: null
 description: ''
-last_updated_timestamp: 1766740075974
+last_updated_timestamp: 1767331844165
 name: Random Forest

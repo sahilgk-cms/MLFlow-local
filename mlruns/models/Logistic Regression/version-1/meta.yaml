@@ -1,15 +1,15 @@
-creation_timestamp: 1766739921261
+creation_timestamp: 1767183328676
 current_stage: None
 deployment_job_state: null
 description: ''
-last_updated_timestamp: 1766739921261
-model_id: m-7d6255b0159b4a29a3946baff1e5dbf0
+last_updated_timestamp: 1767183328676
+model_id: m-9c62d5bff4a546978d37d5595e867774
 name: Logistic Regression
-run_id: 8738777550414eba9932cb06dcee2604
+run_id: f4bc1853bfbf4c748a12f464393559b3
 run_link: ''
-source: models:/m-7d6255b0159b4a29a3946baff1e5dbf0
+source: models:/m-9c62d5bff4a546978d37d5595e867774
 status: READY
 status_message: null
-storage_location: file:///C:/Users/hp/MLFlow/mlruns/519041328492156971/models/m-7d6255b0159b4a29a3946baff1e5dbf0/artifacts
+storage_location: mlflow-artifacts:/758964068121251249/models/m-9c62d5bff4a546978d37d5595e867774/artifacts
 user_id: null
 version: 1

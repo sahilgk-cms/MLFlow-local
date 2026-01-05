@@ -1,15 +1,15 @@
-creation_timestamp: 1766740075974
+creation_timestamp: 1767183677129
 current_stage: None
 deployment_job_state: null
 description: ''
-last_updated_timestamp: 1766740075974
-model_id: m-d9b9aca0a91c4ecd9ef8b901a443fed1
+last_updated_timestamp: 1767183677129
+model_id: m-76e633b0a5d44c0ca1ff6afee2b9cb92
 name: Random Forest
-run_id: 14a1bf3360b24d67a5854eb8b231867e
+run_id: f72bc8416d1d4fe89fd5b86053818cd6
 run_link: ''
-source: models:/m-d9b9aca0a91c4ecd9ef8b901a443fed1
+source: models:/m-76e633b0a5d44c0ca1ff6afee2b9cb92
 status: READY
 status_message: null
-storage_location: file:///C:/Users/hp/MLFlow/mlruns/519041328492156971/models/m-d9b9aca0a91c4ecd9ef8b901a443fed1/artifacts
+storage_location: mlflow-artifacts:/758964068121251249/models/m-76e633b0a5d44c0ca1ff6afee2b9cb92/artifacts
 user_id: null
 version: 1
