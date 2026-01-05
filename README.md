@@ -15,10 +15,11 @@ This is the home page where we can see the experiments created.
 <img width="1920" height="663" alt="image" src="https://github.com/user-attachments/assets/c3efe966-d2a4-4b7d-9754-6111c53fe527" />
 
 The runs within the experiment can be viewed here...
-<img width="1843" height="388" alt="image" src="https://github.com/user-attachments/assets/619600b8-d41d-4023-872c-ed0ff97dca3a" />
+<img width="1909" height="491" alt="image" src="https://github.com/user-attachments/assets/dd1535cb-e9ef-4a8e-aaf5-44f868d582e7" />
 
-Each run overview has info about the mertics, paramters and the logged model...
-<img width="1902" height="922" alt="image" src="https://github.com/user-attachments/assets/d5ca7d84-bb6d-4fb3-abb3-fc0b948f70a4" />
+Each run overview has info about the metics, paramters, data hash, logged model...
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/875db4a3-6f0a-42e3-9bc6-c7f29e9a92f9" />
+
 
 In the artifacts section, we can see where our pickle file is saved
 <img width="1496" height="442" alt="image" src="https://github.com/user-attachments/assets/36194e99-e503-4318-b45e-d0cbd7a4a63a" />
