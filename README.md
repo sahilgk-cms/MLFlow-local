@@ -17,7 +17,7 @@ This is the home page where we can see the experiments created.
 The runs within the experiment can be viewed here...
 <img width="1909" height="491" alt="image" src="https://github.com/user-attachments/assets/dd1535cb-e9ef-4a8e-aaf5-44f868d582e7" />
 
-Each run overview has info about the metics, paramters, data hash, logged model. This can be viewed at http://127.0.0.1:5000/#/experiments/**experiment_id**/runs/run_id
+Each run overview has info about the metics, paramters, data hash, logged model. This can be viewed at http://127.0.0.1:5000/#/experiments/{experiment_id}/runs/run_id
 <img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/875db4a3-6f0a-42e3-9bc6-c7f29e9a92f9" />
 
 
