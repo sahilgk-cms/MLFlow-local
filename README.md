@@ -36,4 +36,6 @@ The registered models can be viewed at http://127.0.0.1:5000/#/models
 Inside the model, we can see the model versions, tags and aliases if pushed to production: http://127.0.0.1:5000/#/models/{model_name}
 <img width="1899" height="683" alt="image" src="https://github.com/user-attachments/assets/4df3b268-1f1f-4335-9d6c-e896acfc4f3a" />
 
+When running locally we see **mlruns** and **mlartifacts** folder in the repo where the data and model versions are stored. This consumes space.
+<img width="819" height="81" alt="image" src="https://github.com/user-attachments/assets/7b2d2261-f9d8-4bd2-9ada-200458591725" />
 
